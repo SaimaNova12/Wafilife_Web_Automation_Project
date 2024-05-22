@@ -12,3 +12,7 @@
 ##### 8. Click অর্ডার সম্পন্ন করুন
 ##### 9. Provide all Information of আপনার বিলিং এবং শিপিং তথ্য
 ##### 10. Log out
+
+###  ScreenShots of the executed srcipts
+##### LIST OF TEST'S
+(https://github.com/SaimaNova12/Project_Daraz_WebAutomation/assets/76209488/a721ec7e-e5e3-4d1a-9001-a65b21ecdf51)
