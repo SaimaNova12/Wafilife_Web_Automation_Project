@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T21:14:32 BDT" name="Suite" finished-at="2024-05-22T21:15:57 BDT" duration-ms="85372">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T21:14:32 BDT" name="Test" finished-at="2024-05-22T21:15:04 BDT" duration-ms="32077">
+      <class name="tests.HomeTest">
+        <test-method is-config="true" signature="Openurl()[pri:0, instance:tests.HomeTest@6adbc9d]" started-at="2024-05-22T21:14:32 BDT" name="Openurl" finished-at="2024-05-22T21:14:41 BDT" duration-ms="9473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openurl -->
+        <test-method signature="HomePage()[pri:1, instance:tests.HomeTest@6adbc9d]" started-at="2024-05-22T21:14:41 BDT" name="HomePage" finished-at="2024-05-22T21:15:04 BDT" duration-ms="22154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.HomeTest@6adbc9d]" started-at="2024-05-22T21:15:04 BDT" name="afterClass" finished-at="2024-05-22T21:15:04 BDT" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.HomeTest -->
+    </test> <!-- Test -->
+    <test started-at="2024-05-22T21:15:04 BDT" name="Test1" finished-at="2024-05-22T21:15:19 BDT" duration-ms="14932">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.LoginTest@5656be13]" started-at="2024-05-22T21:15:04 BDT" name="openUrl" finished-at="2024-05-22T21:15:04 BDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="LoginPage()[pri:2, instance:tests.LoginTest@5656be13]" started-at="2024-05-22T21:15:04 BDT" name="LoginPage" finished-at="2024-05-22T21:15:19 BDT" duration-ms="14847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.LoginTest@5656be13]" started-at="2024-05-22T21:15:19 BDT" name="afterClass" finished-at="2024-05-22T21:15:19 BDT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-22T21:15:19 BDT" name="Test2" finished-at="2024-05-22T21:15:25 BDT" duration-ms="5752">
+      <class name="tests.SelectTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.SelectTest@7b98f307]" started-at="2024-05-22T21:15:19 BDT" name="openUrl" finished-at="2024-05-22T21:15:19 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="SelectPage()[pri:3, instance:tests.SelectTest@7b98f307]" started-at="2024-05-22T21:15:19 BDT" name="SelectPage" finished-at="2024-05-22T21:15:25 BDT" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.SelectTest@7b98f307]" started-at="2024-05-22T21:15:25 BDT" name="afterClass" finished-at="2024-05-22T21:15:25 BDT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.SelectTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-05-22T21:15:25 BDT" name="Test3" finished-at="2024-05-22T21:15:33 BDT" duration-ms="8280">
+      <class name="tests.AuthorTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.AuthorTest@78691363]" started-at="2024-05-22T21:15:25 BDT" name="openUrl" finished-at="2024-05-22T21:15:25 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="AuthorPage()[pri:4, instance:tests.AuthorTest@78691363]" started-at="2024-05-22T21:15:25 BDT" name="AuthorPage" finished-at="2024-05-22T21:15:33 BDT" duration-ms="8162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AuthorPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.AuthorTest@78691363]" started-at="2024-05-22T21:15:33 BDT" name="afterClass" finished-at="2024-05-22T21:15:33 BDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.AuthorTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2024-05-22T21:15:33 BDT" name="Test4" finished-at="2024-05-22T21:15:36 BDT" duration-ms="3523">
+      <class name="tests.OrderTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.OrderTest@5fe94a96]" started-at="2024-05-22T21:15:33 BDT" name="openUrl" finished-at="2024-05-22T21:15:33 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="OrderPage()[pri:5, instance:tests.OrderTest@5fe94a96]" started-at="2024-05-22T21:15:33 BDT" name="OrderPage" finished-at="2024-05-22T21:15:36 BDT" duration-ms="3459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.OrderTest@5fe94a96]" started-at="2024-05-22T21:15:36 BDT" name="afterClass" finished-at="2024-05-22T21:15:36 BDT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.OrderTest -->
+    </test> <!-- Test4 -->
+    <test started-at="2024-05-22T21:15:36 BDT" name="Test5" finished-at="2024-05-22T21:15:49 BDT" duration-ms="12647">
+      <class name="tests.InformationTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.InformationTest@5e0e82ae]" started-at="2024-05-22T21:15:36 BDT" name="openUrl" finished-at="2024-05-22T21:15:36 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="InformationPage()[pri:6, instance:tests.InformationTest@5e0e82ae]" started-at="2024-05-22T21:15:36 BDT" name="InformationPage" finished-at="2024-05-22T21:15:49 BDT" duration-ms="12534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InformationPage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.InformationTest@5e0e82ae]" started-at="2024-05-22T21:15:49 BDT" name="afterClass" finished-at="2024-05-22T21:15:49 BDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.InformationTest -->
+    </test> <!-- Test5 -->
+    <test started-at="2024-05-22T21:15:49 BDT" name="Test6" finished-at="2024-05-22T21:15:57 BDT" duration-ms="8129">
+      <class name="tests.LogoutTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.LogoutTest@28701274]" started-at="2024-05-22T21:14:30 BDT" name="start" finished-at="2024-05-22T21:14:32 BDT" duration-ms="1415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.LogoutTest@28701274]" started-at="2024-05-22T21:15:49 BDT" name="openUrl" finished-at="2024-05-22T21:15:49 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="Logout()[pri:7, instance:tests.LogoutTest@28701274]" started-at="2024-05-22T21:15:49 BDT" name="Logout" finished-at="2024-05-22T21:15:57 BDT" duration-ms="7985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.LogoutTest@28701274]" started-at="2024-05-22T21:15:57 BDT" name="afterClass" finished-at="2024-05-22T21:15:57 BDT" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.LogoutTest@28701274]" started-at="2024-05-22T21:15:57 BDT" name="close" finished-at="2024-05-22T21:15:57 BDT" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.LogoutTest -->
+    </test> <!-- Test6 -->
+  </suite> <!-- Suite -->
+</testng-results>
